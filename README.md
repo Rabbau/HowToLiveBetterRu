@@ -1,3 +1,5 @@
+**中文** · [Русский](README.ru.md)
+
 <div align="center">
 
 <img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
